@@ -35,9 +35,9 @@ public class Exceptionhandling4 {
 		} catch (FileNotFoundException e) {
 			System.out.println("FileNotFoundException");
 			e.printStackTrace();
+			
 		}
-//		
-//		
+			
 
 		
 

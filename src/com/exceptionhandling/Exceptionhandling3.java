@@ -31,6 +31,7 @@ public class Exceptionhandling3 {
 		} finally {
 			System.out.println("in finally");
 		}
+		sc.close();
 
 	}
 

@@ -20,6 +20,7 @@ public class Exceptionhandling2 {
 
 		}
 		System.out.println("main method ended");
+		sc.close();
 
 	}
 

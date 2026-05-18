@@ -27,6 +27,7 @@ public class Exceptionhandling1 {
 		
 		System.out.println("main method ended");
 		System.out.println("main method ended");
+		sc.close();
 
 
 	}
